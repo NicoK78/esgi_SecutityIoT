@@ -10,7 +10,7 @@ Notre projet est composé de :
 <br><t>- un élément KEYES réagissant aux sons émis
   
 <br><br>
-L'interface web permet de manipuler les couleurs et l'éclairage des LED ainsi que le mode de clignotement des LED.
+L'interface web permet de manipuler les couleurs et l'éclairage des LED ainsi que leur mode de clignotement.
 
 
 <h1>SCHEMA</h1>
