@@ -7,4 +7,4 @@ git clone https://github.com/NicoK78/esgi_SecutityIoT/<br>
 
 <br><br><br><br>
 
-<img src="assets/SketchTPIoT.png">
+<img src="SketchTPIoT.png">
