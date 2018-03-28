@@ -22,3 +22,4 @@ git clone https://github.com/NicoK78/esgi_SecutityIoT/<br>
 (sudo) npm install<br>
 
 <br><br><br><br>
+© Selom VIADENOU, Nicolas KERVOERN, ESGI 5A 2018 ©
