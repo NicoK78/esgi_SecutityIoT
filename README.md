@@ -1,9 +1,10 @@
 # esgi_SecutityIoT
 
 
-git init\n
-git clone https://github.com/NicoK78/esgi_SecutityIoT/
-(sudo) npm install
+git init<br>
+git clone https://github.com/NicoK78/esgi_SecutityIoT/<br>
+(sudo) npm install<br>
 
+<br><br><br><br>
 
-
+<img src="assets/SketchTPIoT.png">
